@@ -1,0 +1,47 @@
+[
+  {
+    "id": "halabi",
+    "caratula": "Halabi, Ernesto c/ P.E.N. - ley 25.873 - dto. 1563/04 s/ amparo ley 16.986",
+    "tribunal": "CSJN",
+    "fecha": "24/02/2009",
+    "cita": "Fallos: 332:111",
+    "holding": "Reconoció la acción de clase en el derecho argentino. Tres categorías de derechos: individuales, de incidencia colectiva referentes a intereses individuales homogéneos, y de incidencia colectiva propiamente dichos.",
+    "temas": ["accion de clase", "legitimacion colectiva", "amparo colectivo"]
+  },
+  {
+    "id": "siri",
+    "caratula": "Siri, Angel s/ interpone recurso de habeas corpus",
+    "tribunal": "CSJN",
+    "fecha": "27/12/1957",
+    "cita": "Fallos: 239:459",
+    "holding": "Reconoció la procedencia directa del amparo para la protección de derechos constitucionales sin necesidad de ley reglamentaria.",
+    "temas": ["amparo", "garantias constitucionales", "habeas corpus"]
+  },
+  {
+    "id": "arriola",
+    "caratula": "Arriola, Sebastián y otros s/ causa n° 9080",
+    "tribunal": "CSJN",
+    "fecha": "25/08/2009",
+    "cita": "Fallos: 332:1963",
+    "holding": "Declaró inconstitucional la penalización de la tenencia de estupefacientes para consumo personal. Las acciones privadas que no ofendan al orden ni a la moral pública están exentas de la autoridad de los magistrados.",
+    "temas": ["autonomia personal", "art 19 CN", "tenencia de drogas", "acciones privadas"]
+  },
+  {
+    "id": "madorran",
+    "caratula": "Madorrán, Marta Cristina c/ Administración Nacional de Aduanas s/ reincorporación",
+    "tribunal": "CSJN",
+    "fecha": "03/05/2007",
+    "cita": "Fallos: 330:1989",
+    "holding": "Reafirmó la estabilidad propia del empleado público como garantía constitucional del art. 14 bis CN. El agente estatal no puede ser despedido sin causa y tiene derecho a la reincorporación.",
+    "temas": ["estabilidad empleado publico", "art 14 bis", "reincorporacion"]
+  },
+  {
+    "id": "aquino",
+    "caratula": "Aquino, Isacio c/ Cargo Servicios Industriales S.A. s/ accidentes ley 9688",
+    "tribunal": "CSJN",
+    "fecha": "21/09/2004",
+    "cita": "Fallos: 327:3753",
+    "holding": "Declaró inconstitucional el art. 39 de la LRT que impedía al trabajador accidentado reclamar daños por la vía del derecho común. El trabajador tiene derecho a la reparación integral.",
+    "temas": ["accidentes de trabajo", "LRT", "reparacion integral", "responsabilidad civil laboral"]
+  }
+]
