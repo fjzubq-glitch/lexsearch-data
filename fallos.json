@@ -14,8 +14,8 @@
     "tribunal": "CSJN",
     "fecha": "27/12/1957",
     "cita": "Fallos: 239:459",
-    "holding": "Reconoció la procedencia directa del amparo para la protección de derechos constitucionales sin necesidad de ley reglamentaria. Las garantías individuales existen y protegen por el solo hecho de estar consagradas en la Constitución.",
-    "temas": ["amparo", "garantias constitucionales", "habeas corpus", "derechos fundamentales"]
+    "holding": "Creó la acción de amparo en el derecho argentino como garantía autónoma e independiente del habeas corpus. Estableció que los derechos constitucionales tienen protección directa sin necesidad de ley reglamentaria. El amparo protege derechos distintos a la libertad física — para la cual existe el habeas corpus. Las garantías individuales existen y protegen por el solo hecho de estar consagradas en la Constitución Nacional.",
+"temas": ["amparo", "garantias constitucionales", "accion de amparo", "derechos fundamentales", "origen del amparo"], "habeas corpus", "derechos fundamentales"]
   },
   {
     "id": "kot",
