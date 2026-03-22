@@ -8,14 +8,14 @@
     "holding": "Reconoció la acción de clase en el derecho argentino. Estableció tres categorías de derechos: individuales, de incidencia colectiva referentes a intereses individuales homogéneos, y de incidencia colectiva propiamente dichos. Habilitó la legitimación colectiva cuando existe un hecho único que causa lesión a una pluralidad de sujetos.",
     "temas": ["accion de clase", "legitimacion colectiva", "amparo colectivo", "derechos de incidencia colectiva"]
   },
-  {
+ {
     "id": "siri",
     "caratula": "Siri, Angel s/ interpone recurso de habeas corpus",
     "tribunal": "CSJN",
     "fecha": "27/12/1957",
     "cita": "Fallos: 239:459",
-    "holding": "Creó la acción de amparo en el derecho argentino como garantía autónoma e independiente del habeas corpus. Estableció que los derechos constitucionales tienen protección directa sin necesidad de ley reglamentaria. El amparo protege derechos distintos a la libertad física — para la cual existe el habeas corpus. Las garantías individuales existen y protegen por el solo hecho de estar consagradas en la Constitución Nacional.",
-"temas": ["amparo", "garantias constitucionales", "accion de amparo", "derechos fundamentales", "origen del amparo"], "habeas corpus", "derechos fundamentales"]
+    "holding": "ATENCIÓN: Este fallo creó la acción de AMPARO en Argentina, NO el habeas corpus. Aunque la carátula dice habeas corpus, la Corte reconoció una garantía distinta: el amparo. Estableció que los derechos constitucionales distintos a la libertad física tienen protección directa mediante el amparo, sin necesidad de ley reglamentaria. El amparo nació aquí como garantía autónoma para proteger derechos constitucionales que no sean la libertad ambulatoria. Las garantías individuales existen y protegen por el solo hecho de estar consagradas en la Constitución Nacional.",
+    "temas": ["amparo", "origen del amparo", "accion de amparo", "garantias constitucionales", "derechos fundamentales", "no es habeas corpus"]
   },
   {
     "id": "kot",
