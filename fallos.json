@@ -5,8 +5,8 @@
     "tribunal": "CSJN",
     "fecha": "24/02/2009",
     "cita": "Fallos: 332:111",
-    "holding": "Reconoció la acción de clase en el derecho argentino. Tres categorías de derechos: individuales, de incidencia colectiva referentes a intereses individuales homogéneos, y de incidencia colectiva propiamente dichos.",
-    "temas": ["accion de clase", "legitimacion colectiva", "amparo colectivo"]
+    "holding": "Reconoció la acción de clase en el derecho argentino. Estableció tres categorías de derechos: individuales, de incidencia colectiva referentes a intereses individuales homogéneos, y de incidencia colectiva propiamente dichos. Habilitó la legitimación colectiva cuando existe un hecho único que causa lesión a una pluralidad de sujetos.",
+    "temas": ["accion de clase", "legitimacion colectiva", "amparo colectivo", "derechos de incidencia colectiva"]
   },
   {
     "id": "siri",
@@ -14,17 +14,26 @@
     "tribunal": "CSJN",
     "fecha": "27/12/1957",
     "cita": "Fallos: 239:459",
-    "holding": "Reconoció la procedencia directa del amparo para la protección de derechos constitucionales sin necesidad de ley reglamentaria.",
-    "temas": ["amparo", "garantias constitucionales", "habeas corpus"]
+    "holding": "Reconoció la procedencia directa del amparo para la protección de derechos constitucionales sin necesidad de ley reglamentaria. Las garantías individuales existen y protegen por el solo hecho de estar consagradas en la Constitución.",
+    "temas": ["amparo", "garantias constitucionales", "habeas corpus", "derechos fundamentales"]
   },
   {
-    "id": "arriola",
-    "caratula": "Arriola, Sebastián y otros s/ causa n° 9080",
+    "id": "kot",
+    "caratula": "Kot, Samuel S.R.L. s/ recurso de habeas corpus",
     "tribunal": "CSJN",
-    "fecha": "25/08/2009",
-    "cita": "Fallos: 332:1963",
-    "holding": "Declaró inconstitucional la penalización de la tenencia de estupefacientes para consumo personal. Las acciones privadas que no ofendan al orden ni a la moral pública están exentas de la autoridad de los magistrados.",
-    "temas": ["autonomia personal", "art 19 CN", "tenencia de drogas", "acciones privadas"]
+    "fecha": "05/09/1958",
+    "cita": "Fallos: 241:291",
+    "holding": "Extendió la acción de amparo contra actos de particulares, no solo del Estado. Los derechos constitucionales pueden ser vulnerados tanto por actos estatales como por actos de privados con poder suficiente.",
+    "temas": ["amparo", "actos de particulares", "derechos constitucionales", "libertad de trabajo"]
+  },
+  {
+    "id": "sejean",
+    "caratula": "Sejean, Juan Bautista c/ Zaks de Sejean, Ana María s/ inconstitucionalidad art. 64 ley 2393",
+    "tribunal": "CSJN",
+    "fecha": "27/11/1986",
+    "cita": "Fallos: 308:2268",
+    "holding": "Declaró la inconstitucionalidad de la prohibición del divorcio vincular. El Estado no puede imponer a todos los ciudadanos una concepción matrimonial basada en principios religiosos, afectando la autonomía personal y la libertad de conciencia.",
+    "temas": ["divorcio vincular", "autonomia personal", "libertad de conciencia", "inconstitucionalidad"]
   },
   {
     "id": "madorran",
@@ -32,8 +41,26 @@
     "tribunal": "CSJN",
     "fecha": "03/05/2007",
     "cita": "Fallos: 330:1989",
-    "holding": "Reafirmó la estabilidad propia del empleado público como garantía constitucional del art. 14 bis CN. El agente estatal no puede ser despedido sin causa y tiene derecho a la reincorporación.",
-    "temas": ["estabilidad empleado publico", "art 14 bis", "reincorporacion"]
+    "holding": "Reafirmó la estabilidad propia del empleado público como garantía constitucional del art. 14 bis CN. El agente estatal no puede ser despedido sin causa y tiene derecho a la reincorporación, no solo a indemnización.",
+    "temas": ["estabilidad empleado publico", "art 14 bis", "reincorporacion", "empleo publico"]
+  },
+  {
+    "id": "ramos",
+    "caratula": "Ramos, José Luis c/ Estado Nacional (Min. de Defensa - A.R.A.) s/ indemnización por despido",
+    "tribunal": "CSJN",
+    "fecha": "06/04/2010",
+    "cita": "Fallos: 333:311",
+    "holding": "El Estado no puede usar contratos a plazo fijo para encubrir relaciones laborales permanentes. Cuando genera expectativa legítima de continuidad, debe indemnizar si desvincula sin causa.",
+    "temas": ["contratos temporales estado", "fraude laboral", "expectativa legitima", "indemnizacion empleo publico"]
+  },
+  {
+    "id": "arriola",
+    "caratula": "Arriola, Sebastián y otros s/ causa n° 9080",
+    "tribunal": "CSJN",
+    "fecha": "25/08/2009",
+    "cita": "Fallos: 332:1963",
+    "holding": "Declaró inconstitucional la penalización de la tenencia de estupefacientes para consumo personal. Las acciones privadas que no ofendan al orden ni a la moral pública están exentas de la autoridad de los magistrados — art. 19 CN.",
+    "temas": ["autonomia personal", "art 19 CN", "tenencia de drogas", "acciones privadas"]
   },
   {
     "id": "aquino",
@@ -41,7 +68,115 @@
     "tribunal": "CSJN",
     "fecha": "21/09/2004",
     "cita": "Fallos: 327:3753",
-    "holding": "Declaró inconstitucional el art. 39 de la LRT que impedía al trabajador accidentado reclamar daños por la vía del derecho común. El trabajador tiene derecho a la reparación integral.",
+    "holding": "Declaró inconstitucional el art. 39 de la LRT que impedía al trabajador accidentado reclamar daños por la vía del derecho común. El trabajador tiene derecho a la reparación integral del daño sufrido en ocasión del trabajo.",
     "temas": ["accidentes de trabajo", "LRT", "reparacion integral", "responsabilidad civil laboral"]
+  },
+  {
+    "id": "badaro",
+    "caratula": "Badaro, Adolfo Valentín c/ ANSES s/ reajustes varios",
+    "tribunal": "CSJN",
+    "fecha": "26/11/2007",
+    "cita": "Fallos: 330:4866",
+    "holding": "Ordenó la actualización de los haberes jubilatorios conforme a la evolución de los salarios. El haber previsional debe guardar proporción razonable con los ingresos del trabajador activo.",
+    "temas": ["jubilacion", "movilidad jubilatoria", "ANSES", "actualizacion haberes", "derecho previsional"]
+  },
+  {
+    "id": "verbitsky",
+    "caratula": "Verbitsky, Horacio s/ habeas corpus",
+    "tribunal": "CSJN",
+    "fecha": "03/05/2005",
+    "cita": "Fallos: 328:1146",
+    "holding": "Habilitó el habeas corpus colectivo para tutelar condiciones de detención inhumanas. Reconoció la operatividad de los tratados internacionales de derechos humanos como estándar de control de las condiciones carcelarias.",
+    "temas": ["habeas corpus colectivo", "condiciones de detencion", "derechos humanos", "presos preventivos"]
+  },
+  {
+    "id": "casal",
+    "caratula": "Casal, Matías Eugenio y otro s/ robo simple en grado de tentativa",
+    "tribunal": "CSJN",
+    "fecha": "20/09/2005",
+    "cita": "Fallos: 328:3399",
+    "holding": "El recurso de casación debe permitir la revisión amplia de la sentencia condenatoria, incluyendo cuestiones de hecho y prueba. Adoptó la teoría del agotamiento de la capacidad revisora para satisfacer el derecho al recurso.",
+    "temas": ["casacion penal", "derecho al recurso", "doble instancia", "revision sentencia condenatoria"]
+  },
+  {
+    "id": "llerena",
+    "caratula": "Llerena, Horacio Luis s/ abuso de armas y lesiones",
+    "tribunal": "CSJN",
+    "fecha": "17/05/2005",
+    "cita": "Fallos: 328:1491",
+    "holding": "El juez que intervino en la etapa instructoria no puede actuar como juez de juicio, por afectar la garantía de imparcialidad. Reconoció la garantía del juez imparcial como derecho fundamental del imputado.",
+    "temas": ["imparcialidad judicial", "garantias del imputado", "debido proceso", "juez instructor"]
+  },
+  {
+    "id": "rodriguez_pereyra",
+    "caratula": "Rodríguez Pereyra, Jorge Luis y otra c/ Ejército Argentino s/ daños y perjuicios",
+    "tribunal": "CSJN",
+    "fecha": "27/11/2012",
+    "cita": "Fallos: 335:2333",
+    "holding": "Reconoció la facultad y el deber de los jueces de ejercer el control de constitucionalidad de oficio, sin necesidad de petición de parte. Cualquier juez puede declarar la inconstitucionalidad de una norma.",
+    "temas": ["control de constitucionalidad de oficio", "inconstitucionalidad", "control difuso", "supremacia constitucional"]
+  },
+  {
+    "id": "mendoza_riachuelo",
+    "caratula": "Mendoza, Beatriz Silvia y otros c/ Estado Nacional y otros s/ daños y perjuicios",
+    "tribunal": "CSJN",
+    "fecha": "20/06/2006",
+    "cita": "Fallos: 329:2316",
+    "holding": "Reconoció la legitimación para reclamar por daño ambiental colectivo causado por la contaminación del Riachuelo. Estableció la responsabilidad concurrente del Estado Nacional, la Provincia de Buenos Aires y la Ciudad de Buenos Aires.",
+    "temas": ["daño ambiental", "Riachuelo", "responsabilidad del estado", "legitimacion colectiva ambiental"]
+  },
+  {
+    "id": "fayt",
+    "caratula": "Fayt, Carlos Santiago c/ Estado Nacional s/ proceso de conocimiento",
+    "tribunal": "CSJN",
+    "fecha": "19/08/1999",
+    "cita": "Fallos: 322:1616",
+    "holding": "Declaró la nulidad de la cláusula constitucional que establecía la caducidad automática del mandato de los jueces de la CSJN al cumplir 75 años, por exceder los límites de la reforma constitucional de 1994.",
+    "temas": ["reforma constitucional", "independencia judicial", "inamovilidad jueces", "limites poder constituyente"]
+  },
+  {
+    "id": "villamil",
+    "caratula": "Villamil, Amalia Ana c/ Estado Nacional s/ daños y perjuicios",
+    "tribunal": "CSJN",
+    "fecha": "28/03/2017",
+    "cita": "Fallos: 340:243",
+    "holding": "Reconoció la responsabilidad del Estado por los daños causados durante la última dictadura militar. Estableció la imprescriptibilidad de las acciones civiles derivadas de crímenes de lesa humanidad.",
+    "temas": ["responsabilidad del estado", "dictadura", "lesa humanidad", "imprescriptibilidad", "daños y perjuicios"]
+  },
+  {
+    "id": "silva",
+    "caratula": "Silva, Facundo Jesús c/ Unilever de Argentina S.A.",
+    "tribunal": "CSJN",
+    "fecha": "18/12/2007",
+    "cita": "Fallos: 330:5435",
+    "holding": "Reafirmó el principio protectorio del derecho del trabajo y la irrenunciabilidad de los derechos laborales. Los acuerdos que impliquen renuncia de derechos del trabajador son nulos aunque hayan sido homologados.",
+    "temas": ["principio protectorio", "irrenunciabilidad", "derechos laborales", "nulidad acuerdo laboral"]
+  },
+  {
+    "id": "fontevecchia",
+    "caratula": "Fontevecchia y D'Amico c/ Argentina",
+    "tribunal": "CSJN",
+    "fecha": "14/02/2017",
+    "cita": "Fallos: 340:47",
+    "holding": "Rechazó la orden de la Corte Interamericana de revocar una sentencia firme de la CSJN. La CSJN es la última intérprete de la Constitución Nacional y el control de convencionalidad tiene límites en el orden constitucional interno.",
+    "temas": ["control de convencionalidad", "CIDH", "supremacia constitucional", "libertad de expresion"]
+  },
+  {
+    "id": "comunidad_indigena",
+    "caratula": "Comunidad Indígena Eben Ezer c/ Provincia de Salta s/ amparo",
+    "tribunal": "CSJN",
+    "fecha": "30/09/2008",
+    "cita": "Fallos: 331:2119",
+    "holding": "Reconoció los derechos de las comunidades indígenas a la consulta previa e informada antes de adoptar medidas que afecten sus tierras. Aplicó el Convenio 169 de la OIT con jerarquía supralegal.",
+    "temas": ["pueblos indigenas", "consulta previa", "convenio 169 OIT", "derechos colectivos"]
+  },
+  {
+    "id": "bazterrica",
+    "caratula": "Bazterrica, Gustavo Mario s/ tenencia de estupefacientes",
+    "tribunal": "CSJN",
+    "fecha": "29/08/1986",
+    "cita": "Fallos: 308:1392",
+    "holding": "Declaró inconstitucional la penalización de la tenencia de drogas para consumo personal por vulnerar el art. 19 CN. Las conductas que no dañan a terceros pertenecen a la esfera de libertad personal y están fuera del poder punitivo del Estado.",
+    "temas": ["art 19 CN", "autonomia personal", "tenencia drogas", "principio de lesividad"]
   }
 ]
